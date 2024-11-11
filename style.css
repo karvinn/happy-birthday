@@ -8,7 +8,7 @@ body {
 	transition:background-color linear 5s;
 	overflow-x:hidden;
 
-	background-image: url(./assets/508601.jpg);
+	background-image: url(./assets/508602.jpg);
 	background-size : 250px;
 	background-repeat: no-repeat;
   	background-attachment: fixed;
@@ -1281,7 +1281,7 @@ audio {
 	margin-top: 50px;
 }
 .message {
-	margin-top: 300px;
+	margin-top: 250px;
 	display: none;
 }
 .message p {
